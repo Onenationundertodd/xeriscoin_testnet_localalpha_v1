@@ -1,4 +1,4 @@
-XerisCoin Local Alpha Node v0.1.0
+Toddro XerisCoin Local Alpha Node v0.1.0
 Patent Pending Copyright © 2025 Xeris Web Co. All rights reserved.
 US Provisional Application #63/887,511
 
